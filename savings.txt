@@ -1,0 +1,3 @@
+Savings Account ($): 60.45
+Checking Account ($): 100.00
+Total Savings ($): 0.00
